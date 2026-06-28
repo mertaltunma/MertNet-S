@@ -1,0 +1,15 @@
+Intel Derin Özelliklerle Klasik Sınıflandırma Özeti
+============================================================
+
+Train özellik matrisi: (14034, 128)
+Test özellik matrisi: (3000, 128)
+Kullanılan özellik sayısı: 128
+Sınıflar: ['buildings', 'forest', 'glacier', 'mountain', 'sea', 'street']
+
+              model  accuracy  precision_macro  recall_macro  f1_macro  time_seconds                                                                report_path                                                 confusion_matrix_path
+            svm_rbf  0.875667         0.877609      0.878293  0.877829      3.427935             results/intel_classification/svm_rbf_classification_report.txt             results/intel_classification/svm_rbf_confusion_matrix.csv
+      random_forest  0.862333         0.863927      0.865030  0.864202      5.086841       results/intel_classification/random_forest_classification_report.txt       results/intel_classification/random_forest_confusion_matrix.csv
+logistic_regression  0.859667         0.862466      0.862344  0.862296      0.236278 results/intel_classification/logistic_regression_classification_report.txt results/intel_classification/logistic_regression_confusion_matrix.csv
+
+En iyi model: svm_rbf
+En iyi model confusion matrix görseli: results/intel_classification/svm_rbf_confusion_matrix.png

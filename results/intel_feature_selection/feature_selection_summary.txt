@@ -1,0 +1,10 @@
+Intel Derin Özellik Seçimi Özeti
+==================================================
+
+Orijinal özellik boyutu: 384
+Seçilen özellik sayısı: 128
+Train seçilmiş özellik matrisi: (14034, 128)
+Test seçilmiş özellik matrisi: (3000, 128)
+Normalizasyon: StandardScaler
+Özellik seçimi yöntemi: SelectKBest + ANOVA F-score
+Toplam süre: 0.07 saniye

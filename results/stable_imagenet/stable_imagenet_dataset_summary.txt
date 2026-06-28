@@ -1,0 +1,9 @@
+Stable ImageNet-1K Dataset Summary
+========================================
+Data directory: /Users/mertaltun/Desktop/250681004_MertAltun_IleriDerinOzellikOdevi/data/stable_imagenet_1k/raw
+Total images: 100001
+Number of class folders: 1000
+Minimum images per class: 100
+Maximum images per class: 101
+Average images per class: 100.00
+Corrupted images: 0

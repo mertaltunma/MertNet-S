@@ -1,0 +1,14 @@
+Intel Image Classification Derin Özellik Çıkarımı Özeti
+============================================================
+
+Model dosyası: exported_model/mertnet_s_best.pth
+Giriş boyutu: 160 x 160
+Batch size: 32
+Özellik vektörü boyutu: 384
+Train özellik matrisi: (14034, 384)
+Test özellik matrisi: (3000, 384)
+Train label boyutu: (14034,)
+Test label boyutu: (3000,)
+Train sınıf sayısı: 6
+Test sınıf sayısı: 6
+Toplam süre: 0.57 dakika

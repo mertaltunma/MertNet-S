@@ -1,0 +1,16 @@
+Stable ImageNet-1K Training Summary
+=============================================
+Model: MertNet-S
+Input size: 160
+Number of classes: 1000
+Total parameters: 3300840
+Trainable parameters: 3300840
+Device: mps
+Epochs completed: 30
+Best validation Top-1: 80.8160
+Total training time seconds: 18389.04
+Best model path: exported_model/mertnet_s_best.pth
+Last model path: exported_model/mertnet_s_last.pth
+Training log path: results/stable_imagenet/stable_imagenet_training_log.csv
+Loss curve path: results/stable_imagenet/stable_imagenet_loss_curve.png
+Accuracy curve path: results/stable_imagenet/stable_imagenet_accuracy_curve.png

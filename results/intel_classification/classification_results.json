@@ -1,0 +1,32 @@
+[
+    {
+        "model": "logistic_regression",
+        "accuracy": 0.8596666666666667,
+        "precision_macro": 0.8624664800143796,
+        "recall_macro": 0.8623438248322914,
+        "f1_macro": 0.8622955403571381,
+        "time_seconds": 0.23627781867980957,
+        "report_path": "results/intel_classification/logistic_regression_classification_report.txt",
+        "confusion_matrix_path": "results/intel_classification/logistic_regression_confusion_matrix.csv"
+    },
+    {
+        "model": "svm_rbf",
+        "accuracy": 0.8756666666666667,
+        "precision_macro": 0.8776094262787213,
+        "recall_macro": 0.8782932275162647,
+        "f1_macro": 0.8778294181528196,
+        "time_seconds": 3.4279348850250244,
+        "report_path": "results/intel_classification/svm_rbf_classification_report.txt",
+        "confusion_matrix_path": "results/intel_classification/svm_rbf_confusion_matrix.csv"
+    },
+    {
+        "model": "random_forest",
+        "accuracy": 0.8623333333333333,
+        "precision_macro": 0.8639274628153518,
+        "recall_macro": 0.8650302811026013,
+        "f1_macro": 0.8642016723169448,
+        "time_seconds": 5.086840867996216,
+        "report_path": "results/intel_classification/random_forest_classification_report.txt",
+        "confusion_matrix_path": "results/intel_classification/random_forest_confusion_matrix.csv"
+    }
+]

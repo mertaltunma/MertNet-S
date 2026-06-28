@@ -1,0 +1,1001 @@
+class_name,train_count,val_count,total_count
+"000_tench, Tinca tinca",80,21,101
+"001_goldfish, Carassius auratus",80,20,100
+"002_great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",80,20,100
+"003_tiger shark, Galeocerdo cuvieri",80,20,100
+"004_hammerhead, hammerhead shark",80,20,100
+"005_electric ray, crampfish, numbfish, torpedo",80,20,100
+006_stingray,80,20,100
+007_cock,80,20,100
+008_hen,80,20,100
+"009_ostrich, Struthio camelus",80,20,100
+"010_brambling, Fringilla montifringilla",80,20,100
+"011_goldfinch, Carduelis carduelis",80,20,100
+"012_house finch, linnet, Carpodacus mexicanus",80,20,100
+"013_junco, snowbird",80,20,100
+"014_indigo bunting, indigo finch, indigo bird, Passerina cyanea",80,20,100
+"015_robin, American robin, Turdus migratorius",80,20,100
+016_bulbul,80,20,100
+017_jay,80,20,100
+018_magpie,80,20,100
+019_chickadee,80,20,100
+"020_water ouzel, dipper",80,20,100
+021_kite,80,20,100
+"022_bald eagle, American eagle, Haliaeetus leucocephalus",80,20,100
+023_vulture,80,20,100
+"024_great grey owl, great gray owl, Strix nebulosa",80,20,100
+"025_European fire salamander, Salamandra salamandra",80,20,100
+"026_common newt, Triturus vulgaris",80,20,100
+027_eft,80,20,100
+"028_spotted salamander, Ambystoma maculatum",80,20,100
+"029_axolotl, mud puppy, Ambystoma mexicanum",80,20,100
+"030_bullfrog, Rana catesbeiana",80,20,100
+"031_tree frog, tree-frog",80,20,100
+"032_tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",80,20,100
+"033_loggerhead, loggerhead turtle, Caretta caretta",80,20,100
+"034_leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",80,20,100
+035_mud turtle,80,20,100
+036_terrapin,80,20,100
+"037_box turtle, box tortoise",80,20,100
+038_banded gecko,80,20,100
+"039_common iguana, iguana, Iguana iguana",80,20,100
+"040_American chameleon, anole, Anolis carolinensis",80,20,100
+"041_whiptail, whiptail lizard",80,20,100
+042_agama,80,20,100
+"043_frilled lizard, Chlamydosaurus kingi",80,20,100
+044_alligator lizard,80,20,100
+"045_Gila monster, Heloderma suspectum",80,20,100
+"046_green lizard, Lacerta viridis",80,20,100
+"047_African chameleon, Chamaeleo chamaeleon",80,20,100
+"048_Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",80,20,100
+"049_African crocodile, Nile crocodile, Crocodylus niloticus",80,20,100
+"050_American alligator, Alligator mississipiensis",80,20,100
+051_triceratops,80,20,100
+"052_thunder snake, worm snake, Carphophis amoenus",80,20,100
+"053_ringneck snake, ring-necked snake, ring snake",80,20,100
+"054_hognose snake, puff adder, sand viper",80,20,100
+"055_green snake, grass snake",80,20,100
+"056_king snake, kingsnake",80,20,100
+"057_garter snake, grass snake",80,20,100
+058_water snake,80,20,100
+059_vine snake,80,20,100
+"060_night snake, Hypsiglena torquata",80,20,100
+"061_boa constrictor, Constrictor constrictor",80,20,100
+"062_rock python, rock snake, Python sebae",80,20,100
+"063_Indian cobra, Naja naja",80,20,100
+064_green mamba,80,20,100
+065_sea snake,80,20,100
+"066_horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",80,20,100
+"067_diamondback, diamondback rattlesnake, Crotalus adamanteus",80,20,100
+"068_sidewinder, horned rattlesnake, Crotalus cerastes",80,20,100
+069_trilobite,80,20,100
+"070_harvestman, daddy longlegs, Phalangium opilio",80,20,100
+071_scorpion,80,20,100
+"072_black and gold garden spider, Argiope aurantia",80,20,100
+"073_barn spider, Araneus cavaticus",80,20,100
+"074_garden spider, Aranea diademata",80,20,100
+"075_black widow, Latrodectus mactans",80,20,100
+076_tarantula,80,20,100
+"077_wolf spider, hunting spider",80,20,100
+078_tick,80,20,100
+079_centipede,80,20,100
+080_black grouse,80,20,100
+081_ptarmigan,80,20,100
+"082_ruffed grouse, partridge, Bonasa umbellus",80,20,100
+"083_prairie chicken, prairie grouse, prairie fowl",80,20,100
+084_peacock,80,20,100
+085_quail,80,20,100
+086_partridge,80,20,100
+"087_African grey, African gray, Psittacus erithacus",80,20,100
+088_macaw,80,20,100
+"089_sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",80,20,100
+090_lorikeet,80,20,100
+091_coucal,80,20,100
+092_bee eater,80,20,100
+093_hornbill,80,20,100
+094_hummingbird,80,20,100
+095_jacamar,80,20,100
+096_toucan,80,20,100
+097_drake,80,20,100
+"098_red-breasted merganser, Mergus serrator",80,20,100
+099_goose,80,20,100
+"100_black swan, Cygnus atratus",80,20,100
+101_tusker,80,20,100
+"102_echidna, spiny anteater, anteater",80,20,100
+"103_platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",80,20,100
+"104_wallaby, brush kangaroo",80,20,100
+"105_koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",80,20,100
+106_wombat,80,20,100
+107_jellyfish,80,20,100
+"108_sea anemone, anemone",80,20,100
+109_brain coral,80,20,100
+"110_flatworm, platyhelminth",80,20,100
+"111_nematode, nematode worm, roundworm",80,20,100
+112_conch,80,20,100
+113_snail,80,20,100
+114_slug,80,20,100
+"115_sea slug, nudibranch",80,20,100
+"116_chiton, coat-of-mail shell, sea cradle, polyplacophore",80,20,100
+"117_chambered nautilus, pearly nautilus, nautilus",80,20,100
+"118_Dungeness crab, Cancer magister",80,20,100
+"119_rock crab, Cancer irroratus",80,20,100
+120_fiddler crab,80,20,100
+"121_king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",80,20,100
+"122_American lobster, Northern lobster, Maine lobster, Homarus americanus",80,20,100
+"123_spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",80,20,100
+"124_crayfish, crawfish, crawdad, crawdaddy",80,20,100
+125_hermit crab,80,20,100
+126_isopod,80,20,100
+"127_white stork, Ciconia ciconia",80,20,100
+"128_black stork, Ciconia nigra",80,20,100
+129_spoonbill,80,20,100
+130_flamingo,80,20,100
+"131_little blue heron, Egretta caerulea",80,20,100
+"132_American egret, great white heron, Egretta albus",80,20,100
+133_bittern,80,20,100
+134_crane,80,20,100
+"135_limpkin, Aramus pictus",80,20,100
+"136_European gallinule, Porphyrio porphyrio",80,20,100
+"137_American coot, marsh hen, mud hen, water hen, Fulica americana",80,20,100
+138_bustard,80,20,100
+"139_ruddy turnstone, Arenaria interpres",80,20,100
+"140_red-backed sandpiper, dunlin, Erolia alpina",80,20,100
+"141_redshank, Tringa totanus",80,20,100
+142_dowitcher,80,20,100
+"143_oystercatcher, oyster catcher",80,20,100
+144_pelican,80,20,100
+"145_king penguin, Aptenodytes patagonica",80,20,100
+"146_albatross, mollymawk",80,20,100
+"147_grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",80,20,100
+"148_killer whale, killer, orca, grampus, sea wolf, Orcinus orca",80,20,100
+"149_dugong, Dugong dugon",80,20,100
+150_sea lion,80,20,100
+151_Chihuahua,80,20,100
+152_Japanese spaniel,80,20,100
+"153_Maltese dog, Maltese terrier, Maltese",80,20,100
+"154_Pekinese, Pekingese, Peke",80,20,100
+155_Shih-Tzu,80,20,100
+156_Blenheim spaniel,80,20,100
+157_papillon,80,20,100
+158_toy terrier,80,20,100
+159_Rhodesian ridgeback,80,20,100
+"160_Afghan hound, Afghan",80,20,100
+"161_basset, basset hound",80,20,100
+162_beagle,80,20,100
+"163_bloodhound, sleuthhound",80,20,100
+164_bluetick,80,20,100
+165_black-and-tan coonhound,80,20,100
+"166_Walker hound, Walker foxhound",80,20,100
+167_English foxhound,80,20,100
+168_redbone,80,20,100
+"169_borzoi, Russian wolfhound",80,20,100
+170_Irish wolfhound,80,20,100
+171_Italian greyhound,80,20,100
+172_whippet,80,20,100
+"173_Ibizan hound, Ibizan Podenco",80,20,100
+"174_Norwegian elkhound, elkhound",80,20,100
+"175_otterhound, otter hound",80,20,100
+"176_Saluki, gazelle hound",80,20,100
+"177_Scottish deerhound, deerhound",80,20,100
+178_Weimaraner,80,20,100
+"179_Staffordshire bullterrier, Staffordshire bull terrier",80,20,100
+"180_American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",80,20,100
+181_Bedlington terrier,80,20,100
+182_Border terrier,80,20,100
+183_Kerry blue terrier,80,20,100
+184_Irish terrier,80,20,100
+185_Norfolk terrier,80,20,100
+186_Norwich terrier,80,20,100
+187_Yorkshire terrier,80,20,100
+188_wire-haired fox terrier,80,20,100
+189_Lakeland terrier,80,20,100
+"190_Sealyham terrier, Sealyham",80,20,100
+"191_Airedale, Airedale terrier",80,20,100
+"192_cairn, cairn terrier",80,20,100
+193_Australian terrier,80,20,100
+"194_Dandie Dinmont, Dandie Dinmont terrier",80,20,100
+"195_Boston bull, Boston terrier",80,20,100
+196_miniature schnauzer,80,20,100
+197_giant schnauzer,80,20,100
+198_standard schnauzer,80,20,100
+"199_Scotch terrier, Scottish terrier, Scottie",80,20,100
+"200_Tibetan terrier, chrysanthemum dog",80,20,100
+"201_silky terrier, Sydney silky",80,20,100
+202_soft-coated wheaten terrier,80,20,100
+203_West Highland white terrier,80,20,100
+"204_Lhasa, Lhasa apso",80,20,100
+205_flat-coated retriever,80,20,100
+206_curly-coated retriever,80,20,100
+207_golden retriever,80,20,100
+208_Labrador retriever,80,20,100
+209_Chesapeake Bay retriever,80,20,100
+210_German short-haired pointer,80,20,100
+"211_vizsla, Hungarian pointer",80,20,100
+212_English setter,80,20,100
+"213_Irish setter, red setter",80,20,100
+214_Gordon setter,80,20,100
+215_Brittany spaniel,80,20,100
+"216_clumber, clumber spaniel",80,20,100
+"217_English springer, English springer spaniel",80,20,100
+218_Welsh springer spaniel,80,20,100
+"219_cocker spaniel, English cocker spaniel, cocker",80,20,100
+220_Sussex spaniel,80,20,100
+221_Irish water spaniel,80,20,100
+222_kuvasz,80,20,100
+223_schipperke,80,20,100
+224_groenendael,80,20,100
+225_malinois,80,20,100
+226_briard,80,20,100
+227_kelpie,80,20,100
+228_komondor,80,20,100
+"229_Old English sheepdog, bobtail",80,20,100
+"230_Shetland sheepdog, Shetland sheep dog, Shetland",80,20,100
+231_collie,80,20,100
+232_Border collie,80,20,100
+"233_Bouvier des Flandres, Bouviers des Flandres",80,20,100
+234_Rottweiler,80,20,100
+"235_German shepherd, German shepherd dog, German police dog, alsatian",80,20,100
+"236_Doberman, Doberman pinscher",80,20,100
+237_miniature pinscher,80,20,100
+238_Greater Swiss Mountain dog,80,20,100
+239_Bernese mountain dog,80,20,100
+240_Appenzeller,80,20,100
+241_EntleBucher,80,20,100
+242_boxer,80,20,100
+243_bull mastiff,80,20,100
+244_Tibetan mastiff,80,20,100
+245_French bulldog,80,20,100
+246_Great Dane,80,20,100
+"247_Saint Bernard, St Bernard",80,20,100
+"248_Eskimo dog, husky",80,20,100
+"249_malamute, malemute, Alaskan malamute",80,20,100
+250_Siberian husky,80,20,100
+"251_dalmatian, coach dog, carriage dog",80,20,100
+"252_affenpinscher, monkey pinscher, monkey dog",80,20,100
+253_basenji,80,20,100
+"254_pug, pug-dog",80,20,100
+255_Leonberg,80,20,100
+"256_Newfoundland, Newfoundland dog",80,20,100
+257_Great Pyrenees,80,20,100
+"258_Samoyed, Samoyede",80,20,100
+259_Pomeranian,80,20,100
+"260_chow, chow chow",80,20,100
+261_keeshond,80,20,100
+262_Brabancon griffon,80,20,100
+"263_Pembroke, Pembroke Welsh corgi",80,20,100
+"264_Cardigan, Cardigan Welsh corgi",80,20,100
+265_toy poodle,80,20,100
+266_miniature poodle,80,20,100
+267_standard poodle,80,20,100
+268_Mexican hairless,80,20,100
+"269_timber wolf, grey wolf, gray wolf, Canis lupus",80,20,100
+"270_white wolf, Arctic wolf, Canis lupus tundrarum",80,20,100
+"271_red wolf, maned wolf, Canis rufus, Canis niger",80,20,100
+"272_coyote, prairie wolf, brush wolf, Canis latrans",80,20,100
+"273_dingo, warrigal, warragal, Canis dingo",80,20,100
+"274_dhole, Cuon alpinus",80,20,100
+"275_African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",80,20,100
+"276_hyena, hyaena",80,20,100
+"277_red fox, Vulpes vulpes",80,20,100
+"278_kit fox, Vulpes macrotis",80,20,100
+"279_Arctic fox, white fox, Alopex lagopus",80,20,100
+"280_grey fox, gray fox, Urocyon cinereoargenteus",80,20,100
+"281_tabby, tabby cat",80,20,100
+282_tiger cat,80,20,100
+283_Persian cat,80,20,100
+"284_Siamese cat, Siamese",80,20,100
+285_Egyptian cat,80,20,100
+"286_cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",80,20,100
+"287_lynx, catamount",80,20,100
+"288_leopard, Panthera pardus",80,20,100
+"289_snow leopard, ounce, Panthera uncia",80,20,100
+"290_jaguar, panther, Panthera onca, Felis onca",80,20,100
+"291_lion, king of beasts, Panthera leo",80,20,100
+"292_tiger, Panthera tigris",80,20,100
+"293_cheetah, chetah, Acinonyx jubatus",80,20,100
+"294_brown bear, bruin, Ursus arctos",80,20,100
+"295_American black bear, black bear, Ursus americanus, Euarctos americanus",80,20,100
+"296_ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",80,20,100
+"297_sloth bear, Melursus ursinus, Ursus ursinus",80,20,100
+298_mongoose,80,20,100
+"299_meerkat, mierkat",80,20,100
+300_tiger beetle,80,20,100
+"301_ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",80,20,100
+"302_ground beetle, carabid beetle",80,20,100
+"303_long-horned beetle, longicorn, longicorn beetle",80,20,100
+"304_leaf beetle, chrysomelid",80,20,100
+305_dung beetle,80,20,100
+306_rhinoceros beetle,80,20,100
+307_weevil,80,20,100
+308_fly,80,20,100
+309_bee,80,20,100
+"310_ant, emmet, pismire",80,20,100
+"311_grasshopper, hopper",80,20,100
+312_cricket,80,20,100
+"313_walking stick, walkingstick, stick insect",80,20,100
+"314_cockroach, roach",80,20,100
+"315_mantis, mantid",80,20,100
+"316_cicada, cicala",80,20,100
+317_leafhopper,80,20,100
+"318_lacewing, lacewing fly",80,20,100
+"319_dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",80,20,100
+320_damselfly,80,20,100
+321_admiral,80,20,100
+"322_ringlet, ringlet butterfly",80,20,100
+"323_monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",80,20,100
+324_cabbage butterfly,80,20,100
+"325_sulphur butterfly, sulfur butterfly",80,20,100
+"326_lycaenid, lycaenid butterfly",80,20,100
+"327_starfish, sea star",80,20,100
+328_sea urchin,80,20,100
+"329_sea cucumber, holothurian",80,20,100
+"330_wood rabbit, cottontail, cottontail rabbit",80,20,100
+331_hare,80,20,100
+"332_Angora, Angora rabbit",80,20,100
+333_hamster,80,20,100
+"334_porcupine, hedgehog",80,20,100
+"335_fox squirrel, eastern fox squirrel, Sciurus niger",80,20,100
+336_marmot,80,20,100
+337_beaver,80,20,100
+"338_guinea pig, Cavia cobaya",80,20,100
+339_sorrel,80,20,100
+340_zebra,80,20,100
+"341_hog, pig, grunter, squealer, Sus scrofa",80,20,100
+"342_wild boar, boar, Sus scrofa",80,20,100
+343_warthog,80,20,100
+"344_hippopotamus, hippo, river horse, Hippopotamus amphibius",80,20,100
+345_ox,80,20,100
+"346_water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",80,20,100
+347_bison,80,20,100
+"348_ram, tup",80,20,100
+"349_bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",80,20,100
+"350_ibex, Capra ibex",80,20,100
+351_hartebeest,80,20,100
+"352_impala, Aepyceros melampus",80,20,100
+353_gazelle,80,20,100
+"354_Arabian camel, dromedary, Camelus dromedarius",80,20,100
+355_llama,80,20,100
+356_weasel,80,20,100
+357_mink,80,20,100
+"358_polecat, fitch, foulmart, foumart, Mustela putorius",80,20,100
+"359_black-footed ferret, ferret, Mustela nigripes",80,20,100
+360_otter,80,20,100
+"361_skunk, polecat, wood pussy",80,20,100
+362_badger,80,20,100
+363_armadillo,80,20,100
+"364_three-toed sloth, ai, Bradypus tridactylus",80,20,100
+"365_orangutan, orang, orangutang, Pongo pygmaeus",80,20,100
+"366_gorilla, Gorilla gorilla",80,20,100
+"367_chimpanzee, chimp, Pan troglodytes",80,20,100
+"368_gibbon, Hylobates lar",80,20,100
+"369_siamang, Hylobates syndactylus, Symphalangus syndactylus",80,20,100
+"370_guenon, guenon monkey",80,20,100
+"371_patas, hussar monkey, Erythrocebus patas",80,20,100
+372_baboon,80,20,100
+373_macaque,80,20,100
+374_langur,80,20,100
+"375_colobus, colobus monkey",80,20,100
+"376_proboscis monkey, Nasalis larvatus",80,20,100
+377_marmoset,80,20,100
+"378_capuchin, ringtail, Cebus capucinus",80,20,100
+"379_howler monkey, howler",80,20,100
+"380_titi, titi monkey",80,20,100
+"381_spider monkey, Ateles geoffroyi",80,20,100
+"382_squirrel monkey, Saimiri sciureus",80,20,100
+"383_Madagascar cat, ring-tailed lemur, Lemur catta",80,20,100
+"384_indri, indris, Indri indri, Indri brevicaudatus",80,20,100
+"385_Indian elephant, Elephas maximus",80,20,100
+"386_African elephant, Loxodonta africana",80,20,100
+"387_lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",80,20,100
+"388_giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",80,20,100
+"389_barracouta, snoek",80,20,100
+390_eel,80,20,100
+"391_coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",80,20,100
+"392_rock beauty, Holocanthus tricolor",80,20,100
+393_anemone fish,80,20,100
+394_sturgeon,80,20,100
+"395_gar, garfish, garpike, billfish, Lepisosteus osseus",80,20,100
+396_lionfish,80,20,100
+"397_puffer, pufferfish, blowfish, globefish",80,20,100
+398_abacus,80,20,100
+399_abaya,80,20,100
+"400_academic gown, academic robe, judge's robe",80,20,100
+"401_accordion, piano accordion, squeeze box",80,20,100
+402_acoustic guitar,80,20,100
+"403_aircraft carrier, carrier, flattop, attack aircraft carrier",80,20,100
+404_airliner,80,20,100
+"405_airship, dirigible",80,20,100
+406_altar,80,20,100
+407_ambulance,80,20,100
+"408_amphibian, amphibious vehicle",80,20,100
+409_analog clock,80,20,100
+"410_apiary, bee house",80,20,100
+411_apron,80,20,100
+"412_ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",80,20,100
+"413_assault rifle, assault gun",80,20,100
+"414_backpack, back pack, knapsack, packsack, rucksack, haversack",80,20,100
+"415_bakery, bakeshop, bakehouse",80,20,100
+"416_balance beam, beam",80,20,100
+417_balloon,80,20,100
+"418_ballpoint, ballpoint pen, ballpen, Biro",80,20,100
+419_Band Aid,80,20,100
+420_banjo,80,20,100
+"421_bannister, banister, balustrade, balusters, handrail",80,20,100
+422_barbell,80,20,100
+423_barber chair,80,20,100
+424_barbershop,80,20,100
+425_barn,80,20,100
+426_barometer,80,20,100
+"427_barrel, cask",80,20,100
+"428_barrow, garden cart, lawn cart, wheelbarrow",80,20,100
+429_baseball,80,20,100
+430_basketball,80,20,100
+431_bassinet,80,20,100
+432_bassoon,80,20,100
+"433_bathing cap, swimming cap",80,20,100
+434_bath towel,80,20,100
+"435_bathtub, bathing tub, bath, tub",80,20,100
+"436_beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",80,20,100
+"437_beacon, lighthouse, beacon light, pharos",80,20,100
+438_beaker,80,20,100
+"439_bearskin, busby, shako",80,20,100
+440_beer bottle,80,20,100
+441_beer glass,80,20,100
+"442_bell cote, bell cot",80,20,100
+443_bib,80,20,100
+"444_bicycle-built-for-two, tandem bicycle, tandem",80,20,100
+"445_bikini, two-piece",80,20,100
+"446_binder, ring-binder",80,20,100
+"447_binoculars, field glasses, opera glasses",80,20,100
+448_birdhouse,80,20,100
+449_boathouse,80,20,100
+"450_bobsled, bobsleigh, bob",80,20,100
+"451_bolo tie, bolo, bola tie, bola",80,20,100
+"452_bonnet, poke bonnet",80,20,100
+453_bookcase,80,20,100
+"454_bookshop, bookstore, bookstall",80,20,100
+455_bottlecap,80,20,100
+456_bow,80,20,100
+"457_bow tie, bow-tie, bowtie",80,20,100
+"458_brass, memorial tablet, plaque",80,20,100
+"459_brassiere, bra, bandeau",80,20,100
+"460_breakwater, groin, groyne, mole, bulwark, seawall, jetty",80,20,100
+"461_breastplate, aegis, egis",80,20,100
+462_broom,80,20,100
+"463_bucket, pail",80,20,100
+464_buckle,80,20,100
+465_bulletproof vest,80,20,100
+"466_bullet train, bullet",80,20,100
+"467_butcher shop, meat market",80,20,100
+"468_cab, hack, taxi, taxicab",80,20,100
+"469_caldron, cauldron",80,20,100
+"470_candle, taper, wax light",80,20,100
+471_cannon,80,20,100
+472_canoe,80,20,100
+"473_can opener, tin opener",80,20,100
+474_cardigan,80,20,100
+475_car mirror,80,20,100
+"476_carousel, carrousel, merry-go-round, roundabout, whirligig",80,20,100
+"477_carpenter's kit, tool kit",80,20,100
+478_carton,80,20,100
+479_car wheel,80,20,100
+"480_cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",80,20,100
+481_cassette,80,20,100
+482_cassette player,80,20,100
+483_castle,80,20,100
+484_catamaran,80,20,100
+485_CD player,80,20,100
+"486_cello, violoncello",80,20,100
+"487_cellular telephone, cellular phone, cellphone, cell, mobile phone",80,20,100
+488_chain,80,20,100
+489_chainlink fence,80,20,100
+"490_chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",80,20,100
+"491_chain saw, chainsaw",80,20,100
+492_chest,80,20,100
+"493_chiffonier, commode",80,20,100
+"494_chime, bell, gong",80,20,100
+"495_china cabinet, china closet",80,20,100
+496_Christmas stocking,80,20,100
+"497_church, church building",80,20,100
+"498_cinema, movie theater, movie theatre, movie house, picture palace",80,20,100
+"499_cleaver, meat cleaver, chopper",80,20,100
+500_cliff dwelling,80,20,100
+501_cloak,80,20,100
+"502_clog, geta, patten, sabot",80,20,100
+503_cocktail shaker,80,20,100
+504_coffee mug,80,20,100
+505_coffeepot,80,20,100
+"506_coil, spiral, volute, whorl, helix",80,20,100
+507_combination lock,80,20,100
+"508_computer keyboard, keypad",80,20,100
+"509_confectionery, confectionary, candy store",80,20,100
+"510_container ship, containership, container vessel",80,20,100
+511_convertible,80,20,100
+"512_corkscrew, bottle screw",80,20,100
+"513_cornet, horn, trumpet, trump",80,20,100
+514_cowboy boot,80,20,100
+"515_cowboy hat, ten-gallon hat",80,20,100
+516_cradle,80,20,100
+517_crane,80,20,100
+518_crash helmet,80,20,100
+519_crate,80,20,100
+"520_crib, cot",80,20,100
+521_Crock Pot,80,20,100
+522_croquet ball,80,20,100
+523_crutch,80,20,100
+524_cuirass,80,20,100
+"525_dam, dike, dyke",80,20,100
+526_desk,80,20,100
+527_desktop computer,80,20,100
+"528_dial telephone, dial phone",80,20,100
+"529_diaper, nappy, napkin",80,20,100
+530_digital clock,80,20,100
+531_digital watch,80,20,100
+"532_dining table, board",80,20,100
+"533_dishrag, dishcloth",80,20,100
+"534_dishwasher, dish washer, dishwashing machine",80,20,100
+"535_disk brake, disc brake",80,20,100
+"536_dock, dockage, docking facility",80,20,100
+"537_dogsled, dog sled, dog sleigh",80,20,100
+538_dome,80,20,100
+"539_doormat, welcome mat",80,20,100
+"540_drilling platform, offshore rig",80,20,100
+"541_drum, membranophone, tympan",80,20,100
+542_drumstick,80,20,100
+543_dumbbell,80,20,100
+544_Dutch oven,80,20,100
+"545_electric fan, blower",80,20,100
+546_electric guitar,80,20,100
+547_electric locomotive,80,20,100
+548_entertainment center,80,20,100
+549_envelope,80,20,100
+550_espresso maker,80,20,100
+551_face powder,80,20,100
+"552_feather boa, boa",80,20,100
+"553_file, file cabinet, filing cabinet",80,20,100
+554_fireboat,80,20,100
+"555_fire engine, fire truck",80,20,100
+"556_fire screen, fireguard",80,20,100
+"557_flagpole, flagstaff",80,20,100
+"558_flute, transverse flute",80,20,100
+559_folding chair,80,20,100
+560_football helmet,80,20,100
+561_forklift,80,20,100
+562_fountain,80,20,100
+563_fountain pen,80,20,100
+564_four-poster,80,20,100
+565_freight car,80,20,100
+"566_French horn, horn",80,20,100
+"567_frying pan, frypan, skillet",80,20,100
+568_fur coat,80,20,100
+"569_garbage truck, dustcart",80,20,100
+"570_gasmask, respirator, gas helmet",80,20,100
+"571_gas pump, gasoline pump, petrol pump, island dispenser",80,20,100
+572_goblet,80,20,100
+573_go-kart,80,20,100
+574_golf ball,80,20,100
+"575_golfcart, golf cart",80,20,100
+576_gondola,80,20,100
+"577_gong, tam-tam",80,20,100
+578_gown,80,20,100
+"579_grand piano, grand",80,20,100
+"580_greenhouse, nursery, glasshouse",80,20,100
+"581_grille, radiator grille",80,20,100
+"582_grocery store, grocery, food market, market",80,20,100
+583_guillotine,80,20,100
+584_hair slide,80,20,100
+585_hair spray,80,20,100
+586_half track,80,20,100
+587_hammer,80,20,100
+588_hamper,80,20,100
+"589_hand blower, blow dryer, blow drier, hair dryer, hair drier",80,20,100
+"590_hand-held computer, hand-held microcomputer",80,20,100
+"591_handkerchief, hankie, hanky, hankey",80,20,100
+"592_hard disc, hard disk, fixed disk",80,20,100
+"593_harmonica, mouth organ, harp, mouth harp",80,20,100
+594_harp,80,20,100
+"595_harvester, reaper",80,20,100
+596_hatchet,80,20,100
+597_holster,80,20,100
+"598_home theater, home theatre",80,20,100
+599_honeycomb,80,20,100
+"600_hook, claw",80,20,100
+"601_hoopskirt, crinoline",80,20,100
+"602_horizontal bar, high bar",80,20,100
+"603_horse cart, horse-cart",80,20,100
+604_hourglass,80,20,100
+605_iPod,80,20,100
+"606_iron, smoothing iron",80,20,100
+607_jack-o'-lantern,80,20,100
+"608_jean, blue jean, denim",80,20,100
+"609_jeep, landrover",80,20,100
+"610_jersey, T-shirt, tee shirt",80,20,100
+611_jigsaw puzzle,80,20,100
+"612_jinrikisha, ricksha, rickshaw",80,20,100
+613_joystick,80,20,100
+614_kimono,80,20,100
+615_knee pad,80,20,100
+616_knot,80,20,100
+"617_lab coat, laboratory coat",80,20,100
+618_ladle,80,20,100
+"619_lampshade, lamp shade",80,20,100
+"620_laptop, laptop computer",80,20,100
+"621_lawn mower, mower",80,20,100
+"622_lens cap, lens cover",80,20,100
+"623_letter opener, paper knife, paperknife",80,20,100
+624_library,80,20,100
+625_lifeboat,80,20,100
+"626_lighter, light, igniter, ignitor",80,20,100
+"627_limousine, limo",80,20,100
+"628_liner, ocean liner",80,20,100
+"629_lipstick, lip rouge",80,20,100
+630_Loafer,80,20,100
+631_lotion,80,20,100
+"632_loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",80,20,100
+"633_loupe, jeweler's loupe",80,20,100
+"634_lumbermill, sawmill",80,20,100
+635_magnetic compass,80,20,100
+"636_mailbag, postbag",80,20,100
+"637_mailbox, letter box",80,20,100
+638_maillot,80,20,100
+"639_maillot, tank suit",80,20,100
+640_manhole cover,80,20,100
+641_maraca,80,20,100
+"642_marimba, xylophone",80,20,100
+643_mask,80,20,100
+644_matchstick,80,20,100
+645_maypole,80,20,100
+"646_maze, labyrinth",80,20,100
+647_measuring cup,80,20,100
+"648_medicine chest, medicine cabinet",80,20,100
+"649_megalith, megalithic structure",80,20,100
+"650_microphone, mike",80,20,100
+"651_microwave, microwave oven",80,20,100
+652_military uniform,80,20,100
+653_milk can,80,20,100
+654_minibus,80,20,100
+"655_miniskirt, mini",80,20,100
+656_minivan,80,20,100
+657_missile,80,20,100
+658_mitten,80,20,100
+659_mixing bowl,80,20,100
+"660_mobile home, manufactured home",80,20,100
+661_Model T,80,20,100
+662_modem,80,20,100
+663_monastery,80,20,100
+664_monitor,80,20,100
+665_moped,80,20,100
+666_mortar,80,20,100
+667_mortarboard,80,20,100
+668_mosque,80,20,100
+669_mosquito net,80,20,100
+"670_motor scooter, scooter",80,20,100
+"671_mountain bike, all-terrain bike, off-roader",80,20,100
+672_mountain tent,80,20,100
+"673_mouse, computer mouse",80,20,100
+674_mousetrap,80,20,100
+675_moving van,80,20,100
+676_muzzle,80,20,100
+677_nail,80,20,100
+678_neck brace,80,20,100
+679_necklace,80,20,100
+680_nipple,80,20,100
+"681_notebook, notebook computer",80,20,100
+682_obelisk,80,20,100
+"683_oboe, hautboy, hautbois",80,20,100
+"684_ocarina, sweet potato",80,20,100
+"685_odometer, hodometer, mileometer, milometer",80,20,100
+686_oil filter,80,20,100
+"687_organ, pipe organ",80,20,100
+"688_oscilloscope, scope, cathode-ray oscilloscope, CRO",80,20,100
+689_overskirt,80,20,100
+690_oxcart,80,20,100
+691_oxygen mask,80,20,100
+692_packet,80,20,100
+"693_paddle, boat paddle",80,20,100
+"694_paddlewheel, paddle wheel",80,20,100
+695_padlock,80,20,100
+696_paintbrush,80,20,100
+"697_pajama, pyjama, pj's, jammies",80,20,100
+698_palace,80,20,100
+"699_panpipe, pandean pipe, syrinx",80,20,100
+700_paper towel,80,20,100
+"701_parachute, chute",80,20,100
+"702_parallel bars, bars",80,20,100
+703_park bench,80,20,100
+704_parking meter,80,20,100
+"705_passenger car, coach, carriage",80,20,100
+"706_patio, terrace",80,20,100
+"707_pay-phone, pay-station",80,20,100
+"708_pedestal, plinth, footstall",80,20,100
+"709_pencil box, pencil case",80,20,100
+710_pencil sharpener,80,20,100
+"711_perfume, essence",80,20,100
+712_Petri dish,80,20,100
+713_photocopier,80,20,100
+"714_pick, plectrum, plectron",80,20,100
+715_pickelhaube,80,20,100
+"716_picket fence, paling",80,20,100
+"717_pickup, pickup truck",80,20,100
+718_pier,80,20,100
+"719_piggy bank, penny bank",80,20,100
+720_pill bottle,80,20,100
+721_pillow,80,20,100
+722_ping-pong ball,80,20,100
+723_pinwheel,80,20,100
+"724_pirate, pirate ship",80,20,100
+"725_pitcher, ewer",80,20,100
+"726_plane, carpenter's plane, woodworking plane",80,20,100
+727_planetarium,80,20,100
+728_plastic bag,80,20,100
+729_plate rack,80,20,100
+"730_plow, plough",80,20,100
+"731_plunger, plumber's helper",80,20,100
+"732_Polaroid camera, Polaroid Land camera",80,20,100
+733_pole,80,20,100
+"734_police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",80,20,100
+735_poncho,80,20,100
+"736_pool table, billiard table, snooker table",80,20,100
+"737_pop bottle, soda bottle",80,20,100
+"738_pot, flowerpot",80,20,100
+739_potter's wheel,80,20,100
+740_power drill,80,20,100
+"741_prayer rug, prayer mat",80,20,100
+742_printer,80,20,100
+"743_prison, prison house",80,20,100
+"744_projectile, missile",80,20,100
+745_projector,80,20,100
+"746_puck, hockey puck",80,20,100
+"747_punching bag, punch bag, punching ball, punchball",80,20,100
+748_purse,80,20,100
+"749_quill, quill pen",80,20,100
+"750_quilt, comforter, comfort, puff",80,20,100
+"751_racer, race car, racing car",80,20,100
+"752_racket, racquet",80,20,100
+753_radiator,80,20,100
+"754_radio, wireless",80,20,100
+"755_radio telescope, radio reflector",80,20,100
+756_rain barrel,80,20,100
+"757_recreational vehicle, RV, R.V.",80,20,100
+758_reel,80,20,100
+759_reflex camera,80,20,100
+"760_refrigerator, icebox",80,20,100
+"761_remote control, remote",80,20,100
+"762_restaurant, eating house, eating place, eatery",80,20,100
+"763_revolver, six-gun, six-shooter",80,20,100
+764_rifle,80,20,100
+"765_rocking chair, rocker",80,20,100
+766_rotisserie,80,20,100
+"767_rubber eraser, rubber, pencil eraser",80,20,100
+768_rugby ball,80,20,100
+"769_rule, ruler",80,20,100
+770_running shoe,80,20,100
+771_safe,80,20,100
+772_safety pin,80,20,100
+"773_saltshaker, salt shaker",80,20,100
+774_sandal,80,20,100
+775_sarong,80,20,100
+"776_sax, saxophone",80,20,100
+777_scabbard,80,20,100
+"778_scale, weighing machine",80,20,100
+779_school bus,80,20,100
+780_schooner,80,20,100
+781_scoreboard,80,20,100
+"782_screen, CRT screen",80,20,100
+783_screw,80,20,100
+784_screwdriver,80,20,100
+"785_seat belt, seatbelt",80,20,100
+786_sewing machine,80,20,100
+"787_shield, buckler",80,20,100
+"788_shoe shop, shoe-shop, shoe store",80,20,100
+789_shoji,80,20,100
+790_shopping basket,80,20,100
+791_shopping cart,80,20,100
+792_shovel,80,20,100
+793_shower cap,80,20,100
+794_shower curtain,80,20,100
+795_ski,80,20,100
+796_ski mask,80,20,100
+797_sleeping bag,80,20,100
+"798_slide rule, slipstick",80,20,100
+799_sliding door,80,20,100
+"800_slot, one-armed bandit",80,20,100
+801_snorkel,80,20,100
+802_snowmobile,80,20,100
+"803_snowplow, snowplough",80,20,100
+804_soap dispenser,80,20,100
+805_soccer ball,80,20,100
+806_sock,80,20,100
+"807_solar dish, solar collector, solar furnace",80,20,100
+808_sombrero,80,20,100
+809_soup bowl,80,20,100
+810_space bar,80,20,100
+811_space heater,80,20,100
+812_space shuttle,80,20,100
+813_spatula,80,20,100
+814_speedboat,80,20,100
+"815_spider web, spider's web",80,20,100
+816_spindle,80,20,100
+"817_sports car, sport car",80,20,100
+"818_spotlight, spot",80,20,100
+819_stage,80,20,100
+820_steam locomotive,80,20,100
+821_steel arch bridge,80,20,100
+822_steel drum,80,20,100
+823_stethoscope,80,20,100
+824_stole,80,20,100
+825_stone wall,80,20,100
+"826_stopwatch, stop watch",80,20,100
+827_stove,80,20,100
+828_strainer,80,20,100
+"829_streetcar, tram, tramcar, trolley, trolley car",80,20,100
+830_stretcher,80,20,100
+"831_studio couch, day bed",80,20,100
+"832_stupa, tope",80,20,100
+"833_submarine, pigboat, sub, U-boat",80,20,100
+"834_suit, suit of clothes",80,20,100
+835_sundial,80,20,100
+836_sunglass,80,20,100
+"837_sunglasses, dark glasses, shades",80,20,100
+"838_sunscreen, sunblock, sun blocker",80,20,100
+839_suspension bridge,80,20,100
+"840_swab, swob, mop",80,20,100
+841_sweatshirt,80,20,100
+"842_swimming trunks, bathing trunks",80,20,100
+843_swing,80,20,100
+"844_switch, electric switch, electrical switch",80,20,100
+845_syringe,80,20,100
+846_table lamp,80,20,100
+"847_tank, army tank, armored combat vehicle, armoured combat vehicle",80,20,100
+848_tape player,80,20,100
+849_teapot,80,20,100
+"850_teddy, teddy bear",80,20,100
+"851_television, television system",80,20,100
+852_tennis ball,80,20,100
+"853_thatch, thatched roof",80,20,100
+"854_theater curtain, theatre curtain",80,20,100
+855_thimble,80,20,100
+"856_thresher, thrasher, threshing machine",80,20,100
+857_throne,80,20,100
+858_tile roof,80,20,100
+859_toaster,80,20,100
+"860_tobacco shop, tobacconist shop, tobacconist",80,20,100
+861_toilet seat,80,20,100
+862_torch,80,20,100
+863_totem pole,80,20,100
+"864_tow truck, tow car, wrecker",80,20,100
+865_toyshop,80,20,100
+866_tractor,80,20,100
+"867_trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",80,20,100
+868_tray,80,20,100
+869_trench coat,80,20,100
+"870_tricycle, trike, velocipede",80,20,100
+871_trimaran,80,20,100
+872_tripod,80,20,100
+873_triumphal arch,80,20,100
+"874_trolleybus, trolley coach, trackless trolley",80,20,100
+875_trombone,80,20,100
+"876_tub, vat",80,20,100
+877_turnstile,80,20,100
+878_typewriter keyboard,80,20,100
+879_umbrella,80,20,100
+"880_unicycle, monocycle",80,20,100
+"881_upright, upright piano",80,20,100
+"882_vacuum, vacuum cleaner",80,20,100
+883_vase,80,20,100
+884_vault,80,20,100
+885_velvet,80,20,100
+886_vending machine,80,20,100
+887_vestment,80,20,100
+888_viaduct,80,20,100
+"889_violin, fiddle",80,20,100
+890_volleyball,80,20,100
+891_waffle iron,80,20,100
+892_wall clock,80,20,100
+"893_wallet, billfold, notecase, pocketbook",80,20,100
+"894_wardrobe, closet, press",80,20,100
+"895_warplane, military plane",80,20,100
+"896_washbasin, handbasin, washbowl, lavabo, wash-hand basin",80,20,100
+"897_washer, automatic washer, washing machine",80,20,100
+898_water bottle,80,20,100
+899_water jug,80,20,100
+900_water tower,80,20,100
+901_whiskey jug,80,20,100
+902_whistle,80,20,100
+903_wig,80,20,100
+904_window screen,80,20,100
+905_window shade,80,20,100
+906_Windsor tie,80,20,100
+907_wine bottle,80,20,100
+908_wing,80,20,100
+909_wok,80,20,100
+910_wooden spoon,80,20,100
+"911_wool, woolen, woollen",80,20,100
+"912_worm fence, snake fence, snake-rail fence, Virginia fence",80,20,100
+913_wreck,80,20,100
+914_yawl,80,20,100
+915_yurt,80,20,100
+"916_web site, website, internet site, site",80,20,100
+917_comic book,80,20,100
+"918_crossword puzzle, crossword",80,20,100
+919_street sign,80,20,100
+"920_traffic light, traffic signal, stoplight",80,20,100
+"921_book jacket, dust cover, dust jacket, dust wrapper",80,20,100
+922_menu,80,20,100
+923_plate,80,20,100
+924_guacamole,80,20,100
+925_consomme,80,20,100
+"926_hot pot, hotpot",80,20,100
+927_trifle,80,20,100
+"928_ice cream, icecream",80,20,100
+"929_ice lolly, lolly, lollipop, popsicle",80,20,100
+930_French loaf,80,20,100
+"931_bagel, beigel",80,20,100
+932_pretzel,80,20,100
+933_cheeseburger,80,20,100
+"934_hotdog, hot dog, red hot",80,20,100
+935_mashed potato,80,20,100
+936_head cabbage,80,20,100
+937_broccoli,80,20,100
+938_cauliflower,80,20,100
+"939_zucchini, courgette",80,20,100
+940_spaghetti squash,80,20,100
+941_acorn squash,80,20,100
+942_butternut squash,80,20,100
+"943_cucumber, cuke",80,20,100
+"944_artichoke, globe artichoke",80,20,100
+945_bell pepper,80,20,100
+946_cardoon,80,20,100
+947_mushroom,80,20,100
+948_Granny Smith,80,20,100
+949_strawberry,80,20,100
+950_orange,80,20,100
+951_lemon,80,20,100
+952_fig,80,20,100
+"953_pineapple, ananas",80,20,100
+954_banana,80,20,100
+"955_jackfruit, jak, jack",80,20,100
+956_custard apple,80,20,100
+957_pomegranate,80,20,100
+958_hay,80,20,100
+959_carbonara,80,20,100
+"960_chocolate sauce, chocolate syrup",80,20,100
+961_dough,80,20,100
+"962_meat loaf, meatloaf",80,20,100
+"963_pizza, pizza pie",80,20,100
+964_potpie,80,20,100
+965_burrito,80,20,100
+966_red wine,80,20,100
+967_espresso,80,20,100
+968_cup,80,20,100
+969_eggnog,80,20,100
+970_alp,80,20,100
+971_bubble,80,20,100
+"972_cliff, drop, drop-off",80,20,100
+973_coral reef,80,20,100
+974_geyser,80,20,100
+"975_lakeside, lakeshore",80,20,100
+"976_promontory, headland, head, foreland",80,20,100
+"977_sandbar, sand bar",80,20,100
+"978_seashore, coast, seacoast, sea-coast",80,20,100
+"979_valley, vale",80,20,100
+980_volcano,80,20,100
+"981_ballplayer, baseball player",80,20,100
+"982_groom, bridegroom",80,20,100
+983_scuba diver,80,20,100
+984_rapeseed,80,20,100
+985_daisy,80,20,100
+"986_yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",80,20,100
+987_corn,80,20,100
+988_acorn,80,20,100
+"989_hip, rose hip, rosehip",80,20,100
+"990_buckeye, horse chestnut, conker",80,20,100
+991_coral fungus,80,20,100
+992_agaric,80,20,100
+993_gyromitra,80,20,100
+"994_stinkhorn, carrion fungus",80,20,100
+995_earthstar,80,20,100
+"996_hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",80,20,100
+997_bolete,80,20,100
+"998_ear, spike, capitulum",80,20,100
+"999_toilet tissue, toilet paper, bathroom tissue",80,20,100

@@ -1,0 +1,14 @@
+Stable ImageNet-1K Train/Validation Split Summary
+==================================================
+Data directory: /Users/mertaltun/Desktop/250681004_MertAltun_IleriDerinOzellikOdevi/data/stable_imagenet_1k/raw/imagenet1k
+Random seed: 42
+Train ratio: 0.8
+Validation ratio: 0.20
+Total images: 100001
+Train images: 80000
+Validation images: 20001
+Number of classes: 1000
+
+Classes with total_count != 100:
+            class_name  train_count  val_count  total_count
+000_tench, Tinca tinca           80         21          101

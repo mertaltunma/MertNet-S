@@ -1,0 +1,7 @@
+MertNet-S Export Test Output
+========================================
+Checkpoint path: exported_model/mertnet_s_best.pth
+TorchScript path: exported_model/mertnet_s_torchscript.pt
+ONNX path: exported_model/mertnet_s.onnx
+Input size: 1 x 3 x 160 x 160
+TorchScript output shape: (1, 1000)
